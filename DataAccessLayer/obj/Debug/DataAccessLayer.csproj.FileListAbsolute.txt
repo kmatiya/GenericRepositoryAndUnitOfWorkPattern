@@ -1,0 +1,9 @@
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

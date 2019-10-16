@@ -1,0 +1,13 @@
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\GenericRepositoryAndUnitOfWork.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\GenericRepositoryAndUnitOfWork.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\DataAccessLayer.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\EntityFramework.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\DataAccessLayer.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\DataAccessLayer.dll.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\EntityFramework.xml
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\obj\Debug\GenericRepositoryAndUnitOfWork.csprojResolveAssemblyReference.cache
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\obj\Debug\GenericRepositoryAndUnitOfWork.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\obj\Debug\GenericRepositoryAndUnitOfWork.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\GenericRepositoryAndUnitOfWork.dll.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kmatiya\documents\visual studio 2017\Projects\GenericRepositoryAndUnitOfWorkConsole\GenericRepositoryAndUnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
